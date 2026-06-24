@@ -1,6 +1,3 @@
-ilizando badges oficiais para ilustrar as linguagens e tecnologias que compõem a stack do projeto.
-
-Podes copiar o bloco de código abaixo e substituir diretamente o conteúdo do teu ficheiro README.md:
 
 Markdown
 # KiFacil
